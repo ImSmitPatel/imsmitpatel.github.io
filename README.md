@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Smit Patel ( @SchmittTriggerr )
+- 👀 I’m interested in Trekking, Reading, Cricket.
+- 🌱 I’m currently pursueing Bachlors Degree in Engineering
