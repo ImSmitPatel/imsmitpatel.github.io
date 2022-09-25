@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Smit Patel ( @SchmittTriggerr )
 - 👀 I’m interested in Trekking, Reading, Cricket.
-- 🌱 I’m currently pursueing Bachlors Degree in Engineering
+- 🌱 I’m currently pursueing Bachlors Degree in Engineering(Electronics and Telecommunication).
 - I know C, C++, Java, and Python
