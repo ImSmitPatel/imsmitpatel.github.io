@@ -1,0 +1,11 @@
+- 👋 Hi, I'm Smit Patel (@SchmittTriggerr)!
+- 👀 I have a passion for Trekking, Reading, and Cricket.
+- 🌱 I hold a BTech degree in Electronics and Telecommunication Engineering.
+- 🎯 Actively seeking opportunities as a Software Developer Trainee.
+- 💻 Proficient in programming languages like C, C++, Java, and Python.
+- 🌟 Strong problem-solving and analytical skills.
+- 📚 Always eager to learn and explore new technologies.
+- 💼 Open to collaborative projects and eager to contribute to team success.
+- 🏆 Recognized for my dedication and determination in achieving goals.
+- ✉️ Reach me at [your email address] for exciting career opportunities!
+- Let's connect and embark on a journey of growth and innovation together!
