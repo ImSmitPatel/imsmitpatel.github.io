@@ -1,0 +1,14 @@
+root {
+
+}
+
+body {
+    background-color: azure;
+}
+
+header {
+    background-color: bisque;
+    display: flex;
+    flex-direction: column;
+}
+
