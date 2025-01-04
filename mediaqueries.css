@@ -1,10 +1,22 @@
-@media screen and (max-width: 1200px) {
+/* @media screen and (max-width: 1200px) {
     #desktop-nav {
         display: none;
     }
 
-    #hamburger-nav {
+    .mobile-container {
         display: flex;
     }
 
+} */
+
+@media (max-width: 768px) {
+    #desktop-container {
+        display: none;
+    }
+
+    .mobile-container {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
 }
