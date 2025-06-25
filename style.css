@@ -363,7 +363,8 @@ h3{
 .project-container{
     display: flex;
     width: 100%;
-    justify-content: space-between;
+    justify-content: space-evenly;
+    align-items: center;
     gap: 20px;
     flex-wrap: wrap;
 }
@@ -399,15 +400,17 @@ h3{
     transition: .4s;
     z-index: 1;
 }
-.project-box:hover.project-box::after,
 .contact-info:hover.contact-info::after{
     bottom: 0;
 }
-.project-box:hover.project-box i,
-.project-box:hover.project-box>h3,
-.project-box:hover.project-box>label{
+
+.project-btn>.blue-btn{
+    background: var(--first-color);
     color: var(--color-white);
-    z-index: 2;
+}
+
+.project-btn>.blue-btn:hover{
+    background: var(--first-color-hover);
 }
 
 /* ----- CONTACT BOX ----- */
