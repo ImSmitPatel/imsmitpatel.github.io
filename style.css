@@ -386,6 +386,11 @@ h3{
     color: #00B5E7;
     margin-bottom: 25px;
 }
+.project-box > .project-logo {
+    width: 70px;
+    height: 70px;
+    margin-bottom: 10px;
+}
 .project-box label{
     font-size: 15px;
     color: #777;
